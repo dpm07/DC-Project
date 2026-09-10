@@ -157,8 +157,8 @@ This project is useful for:
 This is an educational project for B.Tech ENTC students.
 
 ## Author
-
-B.Tech ENTC - Digital Communication Macro-Project
+BTECH EXTC 
+A DEVAPRASADH MENON 
 
 ---
 
